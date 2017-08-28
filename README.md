@@ -3,7 +3,9 @@
 
 **Dear potential co-authors,**
 
-I am planning to use this codebase, or the co.py.cat one, to implement a variation of Copycat that uses Entropy instead of Temperature and still preserves the parallel terraced scan in full form.  If the change is viable, I plan to write a paper on that.  For the general idea, please see pages 41 and 42 of the [*Information Sciences*](https://github.com/Alex-Linhares/FARGlexandria/blob/master/Literature/Chess-Capyblanca-2014-Linhares-Information%20Sciences.pdf) paper on [Capyblanca](https://github.com/Alex-Linhares/FARGlexandria).  **If you would like to help, please let me know!** 
+I am planning to use this codebase, or the co.py.cat one, to implement a variation of Copycat that uses Entropy instead of Temperature and still preserves the parallel terraced scan in full form.  If the change is viable, I plan to write a paper on that.  For the general idea, please see pages 41 and 42 of the [*Information Sciences*](https://github.com/Alex-Linhares/FARGlexandria/blob/master/Literature/Chess-Capyblanca-2014-Linhares-Information%20Sciences.pdf) paper on [Capyblanca](https://github.com/Alex-Linhares/FARGlexandria).  
+
+**If you would like to help, please let me know!** 
 
 ---
 
